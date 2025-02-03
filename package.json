@@ -2,6 +2,10 @@
   "name": "related-files-extension",
   "displayName": "Related Files Extension",
   "description": "Displays related files based on the currently open file.",
+  "author": {
+    "name": "nancy",
+    "email": "nancy@transit.app"
+    },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.75.0"
