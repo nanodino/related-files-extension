@@ -1,0 +1,14 @@
+related-files-extension
+├── src
+│   ├── extension.ts
+│   ├── fileProvider.ts
+│   ├── utils
+│   │   └── fileUtils.ts
+│   └── test
+│       └── extension.test.ts
+├── .vscode
+│   └── launch.json
+├── .vscodeignore
+├── package.json
+├── tsconfig.json
+└── README.md
